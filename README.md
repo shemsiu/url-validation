@@ -1,6 +1,6 @@
 ## Overview
 
-I have made my own URL validator and it seems to work pretty good. The var_filter("url", FILTER_VALIDATE_URL) only validate if the url syntax is correct.
+I have made my own URL validator and it works great! The var_filter("url", FILTER_VALIDATE_URL) only validate if the url syntax is correct.
 
 My URL validator also checks wether top level domain is correct, have the user remembered to enter www and if you required then it checks wether the user have typed https:// instead http://.
 
